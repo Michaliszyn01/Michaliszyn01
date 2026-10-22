@@ -4,6 +4,8 @@
 
 <h1>Marcos Michaliszyn</h1>
 
+<img src="./assets/pixel-snow.gif" width="100%" alt="Animação em pixel art de snowboard e neve">
+
 <p><strong>Software · Automação · Inteligência Artificial</strong><br>
 <sub>Software · Automation · Artificial Intelligence</sub></p>
 
@@ -24,11 +26,7 @@ Sou Marcos. Gosto de criar ferramentas, explorar inteligência artificial e tran
 
 Meus projetos passam por assistentes para Windows, automação, experimentos com modelos locais e desenvolvimento de jogos. Compartilho aqui o que estou construindo e aprendendo.
 
-Fora do código, curto neve, montanhas e snowboard. 🏂
-
 **EN** · I'm Marcos. I enjoy building tools, exploring AI, and turning ideas into experiences I can test and improve. My projects span Windows assistants, automation, local AI experiments, and game development.
-
-Outside of code, I'm into snow, mountains, and snowboarding.
 
 <br clear="all">
 
@@ -37,16 +35,42 @@ Outside of code, I'm into snow, mountains, and snowboarding.
 ## Tecnologias e ferramentas · Tools & technologies
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Luau-181818?style=for-the-badge&logo=lua&logoColor=white" alt="Luau">
-<img src="https://img.shields.io/badge/Roblox_Studio-181818?style=for-the-badge&logo=robloxstudio&logoColor=white" alt="Roblox Studio">
-<img src="https://img.shields.io/badge/Blender-181818?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
-<img src="https://img.shields.io/badge/Ollama-181818?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-<img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-181818?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/Node.js-181818?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Luau-181818?style=for-the-badge&amp;logo=lua&amp;logoColor=white" alt="Luau">
+<br>
+<img src="https://img.shields.io/badge/SQL-181818?style=for-the-badge" alt="SQL">
+<img src="https://img.shields.io/badge/Power_BI-181818?style=for-the-badge" alt="Power BI">
+<img src="https://img.shields.io/badge/Excel-181818?style=for-the-badge" alt="Excel">
+<br>
+<img src="https://img.shields.io/badge/VS_Code-181818?style=for-the-badge" alt="VS Code">
+<img src="https://img.shields.io/badge/Cloudflare-181818?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare">
+<img src="https://img.shields.io/badge/Roblox_Studio-181818?style=for-the-badge&amp;logo=robloxstudio&amp;logoColor=white" alt="Roblox Studio">
+<img src="https://img.shields.io/badge/Blender-181818?style=for-the-badge&amp;logo=blender&amp;logoColor=white" alt="Blender">
+<img src="https://img.shields.io/badge/Ollama-181818?style=for-the-badge&amp;logo=ollama&amp;logoColor=white" alt="Ollama">
+<img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
 </p>
 
 Ferramentas presentes nos meus projetos e estudos. Sempre aprendendo.<br>
 <em>Tools used in my projects and experiments. Always learning.</em>
+
+---
+
+## GitHub em números · GitHub analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Michaliszyn01&amp;theme=github_dark&amp;title_color=ffffff&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;border_color=30363d&amp;icon_color=ffffff&amp;chart_color=c9d1d9&amp;name=Marcos%20Michaliszyn" width="100%" alt="Gráfico de contribuições de Marcos Michaliszyn no GitHub">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Michaliszyn01&amp;theme=github_dark&amp;title_color=ffffff&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;border_color=30363d&amp;icon_color=ffffff&amp;chart_color=c9d1d9" width="48%" alt="Estatísticas de atividade no GitHub">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Michaliszyn01&amp;theme=github_dark&amp;title_color=ffffff&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;border_color=30363d&amp;icon_color=ffffff&amp;chart_color=c9d1d9" width="48%" alt="Linguagens nos repositórios públicos">
+
+</div>
+
+<sub>Dados dos repositórios públicos. Os gráficos podem levar um tempo para refletir novas publicações.<br>Public repository data. Charts may take time to reflect new activity.</sub>
 
 ---
 
