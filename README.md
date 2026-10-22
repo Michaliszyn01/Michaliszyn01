@@ -33,27 +33,23 @@ Meus projetos passam por assistentes para Windows, automação, experimentos com
 ## Tecnologias e ferramentas · Tools & technologies
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-181818?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript">
-<img src="https://img.shields.io/badge/Node.js-181818?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Luau-181818?style=for-the-badge&amp;logo=lua&amp;logoColor=white" alt="Luau">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html&amp;theme=dark" width="44" height="44" alt="HTML5" title="HTML5">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=css&amp;theme=dark" width="44" height="44" alt="CSS3" title="CSS3">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=js&amp;theme=dark" width="44" height="44" alt="JavaScript" title="JavaScript">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&amp;theme=dark" width="44" height="44" alt="Node.js" title="Node.js">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python&amp;theme=dark" width="44" height="44" alt="Python" title="Python">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=luau&amp;theme=dark" width="44" height="44" alt="Luau" title="Luau">
+<img src="https://api.iconify.design/vscode-icons/file-type-sql.svg" width="44" height="44" alt="SQL" title="SQL">
 <br>
-<img src="https://img.shields.io/badge/SQL-181818?style=for-the-badge" alt="SQL">
-<img src="https://img.shields.io/badge/Power_BI-181818?style=for-the-badge" alt="Power BI">
-<img src="https://img.shields.io/badge/Excel-181818?style=for-the-badge" alt="Excel">
-<br>
-<img src="https://img.shields.io/badge/VS_Code-181818?style=for-the-badge" alt="VS Code">
-<img src="https://img.shields.io/badge/Cloudflare-181818?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare">
-<img src="https://img.shields.io/badge/Roblox_Studio-181818?style=for-the-badge&amp;logo=robloxstudio&amp;logoColor=white" alt="Roblox Studio">
-<img src="https://img.shields.io/badge/Blender-181818?style=for-the-badge&amp;logo=blender&amp;logoColor=white" alt="Blender">
-<img src="https://img.shields.io/badge/Ollama-181818?style=for-the-badge&amp;logo=ollama&amp;logoColor=white" alt="Ollama">
-<img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pbi&amp;theme=dark" width="44" height="44" alt="Power BI" title="Power BI">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=excel&amp;theme=dark" width="44" height="44" alt="Excel" title="Excel">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&amp;theme=dark" width="44" height="44" alt="VS Code" title="VS Code">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare&amp;theme=dark" width="44" height="44" alt="Cloudflare" title="Cloudflare">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=robloxstudio&amp;theme=dark" width="44" height="44" alt="Roblox Studio" title="Roblox Studio">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=blender&amp;theme=dark" width="44" height="44" alt="Blender" title="Blender">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ollama&amp;theme=dark" width="44" height="44" alt="Ollama" title="Ollama">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=github&amp;theme=dark" width="44" height="44" alt="GitHub" title="GitHub">
 </p>
-
-Ferramentas presentes nos meus projetos e estudos. Sempre aprendendo.<br>
-<em>Tools used in my projects and experiments. Always learning.</em>
 
 ---
 
