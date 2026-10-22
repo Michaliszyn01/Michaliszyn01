@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="./assets/cyber-snow-header.png" width="100%" alt="Arte de tecnologia com personagem monocromático e detalhes dourados">
+<img src="./assets/snowboard-color-v2.gif" width="100%" alt="Snowboard em pixel art: aurora colorida, montanhas, pinheiros e neve animada">
 
 <h1>Marcos Michaliszyn</h1>
-
-<img src="./assets/pixel-snow.gif" width="100%" alt="Animação em pixel art de snowboard e neve">
 
 <p><strong>Software · Automação · Inteligência Artificial</strong><br>
 <sub>Software · Automation · Artificial Intelligence</sub></p>
@@ -24,9 +22,9 @@
 
 Sou Marcos. Gosto de criar ferramentas, explorar inteligência artificial e transformar ideias em experiências que posso testar e melhorar.
 
-Meus projetos passam por assistentes para Windows, automação, experimentos com modelos locais e desenvolvimento de jogos. Compartilho aqui o que estou construindo e aprendendo.
+Meus projetos passam por assistentes para Windows, automação, experimentos com modelos locais e desenvolvimento de jogos. Também exploro desenvolvimento web, dados e indicadores com SQL, Excel e Power BI. Compartilho aqui o que estou construindo e aprendendo.
 
-**EN** · I'm Marcos. I enjoy building tools, exploring AI, and turning ideas into experiences I can test and improve. My projects span Windows assistants, automation, local AI experiments, and game development.
+**EN** · I'm Marcos. I enjoy building tools, exploring AI, and turning ideas into experiences I can test and improve. My projects span Windows assistants, automation, local AI experiments, and game development. I also explore web development, data, and reporting with SQL, Excel, and Power BI.
 
 <br clear="all">
 
@@ -59,18 +57,21 @@ Ferramentas presentes nos meus projetos e estudos. Sempre aprendendo.<br>
 
 ---
 
-## GitHub em números · GitHub analytics
+## Atividade e código · Activity & code
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Michaliszyn01&amp;theme=github_dark&amp;title_color=ffffff&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;border_color=30363d&amp;icon_color=ffffff&amp;chart_color=c9d1d9&amp;name=Marcos%20Michaliszyn" width="100%" alt="Gráfico de contribuições de Marcos Michaliszyn no GitHub">
+<img src="https://streak-stats.demolab.com?user=Michaliszyn01&amp;theme=tokyonight&amp;hide_border=true" width="100%" alt="Contribuições totais, sequência atual de dias e maior sequência no GitHub">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Michaliszyn01&amp;theme=github_dark&amp;title_color=ffffff&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;border_color=30363d&amp;icon_color=ffffff&amp;chart_color=c9d1d9" width="48%" alt="Estatísticas de atividade no GitHub">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Michaliszyn01&amp;theme=github_dark&amp;title_color=ffffff&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;border_color=30363d&amp;icon_color=ffffff&amp;chart_color=c9d1d9" width="48%" alt="Linguagens nos repositórios públicos">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Michaliszyn01&amp;theme=tokyonight&amp;bg_color=10172a&amp;title_color=7dd3fc&amp;text_color=cbd5e1&amp;border_color=263450&amp;icon_color=a78bfa&amp;chart_color=38bdf8" width="49%" alt="Resumo de commits, contribuições, pull requests e issues">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Michaliszyn01&amp;theme=tokyonight&amp;bg_color=10172a&amp;title_color=7dd3fc&amp;text_color=cbd5e1&amp;border_color=263450&amp;icon_color=a78bfa&amp;chart_color=38bdf8&amp;utcOffset=-3" width="49%" alt="Distribuição dos commits por hora, no fuso UTC menos 3">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Michaliszyn01&amp;theme=tokyonight&amp;bg_color=10172a&amp;title_color=7dd3fc&amp;text_color=cbd5e1&amp;border_color=263450&amp;icon_color=a78bfa&amp;chart_color=38bdf8" width="49%" alt="Linguagens por repositório público">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Michaliszyn01&amp;theme=tokyonight&amp;bg_color=10172a&amp;title_color=7dd3fc&amp;text_color=cbd5e1&amp;border_color=263450&amp;icon_color=a78bfa&amp;chart_color=38bdf8" width="49%" alt="Linguagens mais presentes nos commits">
 
 </div>
 
-<sub>Dados dos repositórios públicos. Os gráficos podem levar um tempo para refletir novas publicações.<br>Public repository data. Charts may take time to reflect new activity.</sub>
+<sub>Atividade no GitHub, horários dos commits (UTC−3) e distribuição das linguagens. Os gráficos refletem os repositórios públicos, não as habilidades ou projetos que ainda estão locais.<br>GitHub activity, commit hours (UTC−3), and language distribution. Charts reflect public repositories, not skills or projects that are still local.</sub>
 
 ---
 
