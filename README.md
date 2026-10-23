@@ -7,8 +7,8 @@
 <p><strong>Software · Automação · Inteligência Artificial</strong><br>
 <sub>Software · Automation · Artificial Intelligence</sub></p>
 
-<p>Transformando ideias em projetos, uma evolução por vez.<br>
-<em>Turning ideas into projects, one improvement at a time.</em></p>
+<p>Não apenas acompanhando o futuro, mas aprendendo a construí-lo.<br>
+<em>Not just following the future, but learning to build it.</em></p>
 
 <a href="https://github.com/Michaliszyn01?tab=repositories"><img src="https://img.shields.io/badge/EXPLORAR_PROJETOS-181818?style=for-the-badge&logo=github&logoColor=white" alt="Explorar projetos"></a>
 
