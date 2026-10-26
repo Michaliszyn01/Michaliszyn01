@@ -73,20 +73,24 @@ Meus projetos passam por assistentes para Windows, automação, experimentos com
 
 ## Projetos · Projects
 
-### [Orion-XT](https://github.com/Michaliszyn01/Orion-XT)
-Assistente virtual para o computador.<br>
-<em>A virtual assistant for the desktop.</em>
+### Destaques · Featured projects
 
-### Em desenvolvimento · Work in progress
-
-| Projeto / Project | O que estou explorando / What I'm exploring |
+| Projeto / Project | O que você encontra / What you'll find |
 | :--- | :--- |
-| **Build a Bot** | Desenvolvimento de um jogo no Roblox. / Building a Roblox game. |
-| **Gemma Blender Studio** | Experimentos com modelos locais e Blender. / Experiments with local AI models and Blender. |
-| **LifeSim** | Simulação com inteligência artificial. / AI simulation experiments. |
+| **[Gemma Blender Studio](https://github.com/Michaliszyn01/gemma-blender-studio)** | Laboratório de modelagem 3D com Ollama e Blender, operações validadas e aprovação humana. / Experimental local AI modeling workflow. |
+| **[OrionWorld](https://github.com/Michaliszyn01/orionworld)** | Agentes em ambiente isolado, memória persistente e auditoria. / Sandboxed agents with persistent memory and audit trails. |
+| **[Nexus ME](https://github.com/Michaliszyn01/nexus-me)** | Memória de projetos com fontes, interface desktop e IA opcional. / Source-backed project memory with a desktop UI. |
+| **[Condution Time](https://github.com/Michaliszyn01/condution-time)** | Rotina, saúde e produtividade com Flask e SQLite. / Local routine and productivity tracking. |
+| **[Routine IA](https://github.com/Michaliszyn01/routine-ia)** | Planejamento, foco e revisão espaçada para estudos. / Study planning, focus sessions and spaced reviews. |
+| **[Atendente Simples](https://github.com/Michaliszyn01/projeto-atendente-simples)** | Atendimento e agendamento com regras determinísticas. / Rule-driven customer service and scheduling. |
 
-Os projetos em desenvolvimento serão vinculados aqui conforme seus repositórios forem publicados.<br>
-<em>Work-in-progress projects will be linked here as their repositories are published.</em>
+### Outros experimentos · More experiments
+
+[Orion-XT](https://github.com/Michaliszyn01/Orion-XT) · [Multiagent Lab](https://github.com/Michaliszyn01/multiagent-lab) · [Michaliszyn System — site](https://github.com/Michaliszyn01/michaliszyn-system-site) · [Python Task Manager](https://github.com/Michaliszyn01/python-task-manager)
+
+Os repositórios incluem o estágio e as limitações de cada projeto. Dados pessoais, chaves, bancos de trabalho e históricos não fazem parte das publicações. Build a Bot, LifeSim e Atendente IA permanecem privados.<br>
+<em>Repositories document their current stage and limitations. Personal data, credentials, working databases and histories are excluded. Build a Bot, LifeSim and Atendente IA remain private.</em>
+
 
 ---
 
